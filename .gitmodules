@@ -1,0 +1,4 @@
+[submodule "aeneproduce"]
+	path = aeneproduce
+	url = git@git.vauxoo.com:vauxoo/aeneproduce.git
+	branch = 14.0
