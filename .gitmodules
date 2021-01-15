@@ -1,4 +1,8 @@
 [submodule "aeneproduce"]
 	path = aeneproduce
 	url = git@git.vauxoo.com:vauxoo/aeneproduce.git
-	branch = 14.0
+	branch = 13.0
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:Vauxoo/server-tools.git
+	branch = 13.0
