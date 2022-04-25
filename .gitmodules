@@ -18,3 +18,7 @@
 	path = purchase-workflow
 	url = git@github.com:vauxoo/purchase-workflow.git
 	branch = 13.0
+[submodule "sbdgroup"]
+	path = sbdgroup
+	url = git@git.vauxoo.com:vauxoo/sbdgroup.git
+	branch = 13.0-Install-Sbd-Importer-CarmenMiranda
